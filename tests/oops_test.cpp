@@ -5,6 +5,4 @@
 
 #include "../src/oops.hpp"
 
-TEST_CASE( "it works" ) {
-    REQUIRE( oops() == "You can delete this function and put your code in this file!" );
-}
+

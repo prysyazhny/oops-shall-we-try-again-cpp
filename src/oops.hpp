@@ -2,4 +2,4 @@
 
 #include <string>
 
-std::string oops();
+bool oops(int lowerBound, int upperBound, std::string promptMessage, std::string errorMessage);
